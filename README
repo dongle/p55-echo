@@ -1,0 +1,11 @@
+P55 Echo
+ by Jonathan Beilin
+ http://jonbeilin.net
+ github: dongle
+ 
+ A re-implementation of the Echo effect in Adobe After Effects in processing.
+ Takes a directory of a series of TIFFs and spits out a series of processed TIFFs.
+ Blends and fades previous frames to create a dreamy swirl as seen at http://vimeo.com/22928669.
+ Works best with things shot against an alpha.
+ 
+ Setup contains some nifty switches to flip like resolution & blendmode etc.
